@@ -444,17 +444,17 @@ private:
 
     void exibirMenu() const {
         cout << "\n╔════════════════════════════════════╗\n";
-        cout << "║        BANCO PIAUÍ v" << VERSAO_SISTEMA << "          ║\n";
+        cout << "║        BANCO PIAUÍ v" << VERSAO_SISTEMA << "            ║\n";
         cout << "╠════════════════════════════════════╣\n";
         cout << "║   1. Abrir Conta                   ║\n";
-        cout << "║   2. Depositar                      ║\n";
-        cout << "║   3. Sacar                          ║\n";
-        cout << "║   4. Transferir                     ║\n";
-        cout << "║   5. Ver Extrato                    ║\n";
-        cout << "║   6. Listar Contas                  ║\n";
-        cout << "║   7. Encerrar Conta                 ║\n";
-        cout << "║   8. Relatorio Financeiro           ║\n";
-        cout << "║   0. Sair                           ║\n";
+        cout << "║   2. Depositar                     ║\n";
+        cout << "║   3. Sacar                         ║\n";
+        cout << "║   4. Transferir                    ║\n";
+        cout << "║   5. Ver Extrato                   ║\n";
+        cout << "║   6. Listar Contas                 ║\n";
+        cout << "║   7. Encerrar Conta                ║\n";
+        cout << "║   8. Relatorio Financeiro          ║\n";
+        cout << "║   0. Sair                          ║\n";
         cout << "╚════════════════════════════════════╝\n";
         cout << "  Opcao: ";
     }
